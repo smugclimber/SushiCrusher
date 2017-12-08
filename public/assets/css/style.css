@@ -8,6 +8,13 @@ li {
   background: #faebd7;
 }
 
+.btn-small {
+    height: 20px;
+    line-height: 18px;
+    padding: 0 0.2rem;
+    font-size: 8pt;
+}
+
 .icon-block {
   padding: 0 15px;
 }
