@@ -1,0 +1,26 @@
+{
+  "name": "sushicrusher",
+  "version": "1.0.0",
+  "description": "A sushi eating app that uses Handlebars, MySQL databases, and Node Express all under the guise of ORM.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smugclimber/SushiCrusher.git"
+  },
+  "author": "Nick H",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smugclimber/SushiCrusher/issues"
+  },
+  "homepage": "https://github.com/smugclimber/SushiCrusher#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "express-handlebars": "^3.0.0",
+    "mysql": "^2.15.0"
+  }
+}
