@@ -8,7 +8,6 @@ Node <br>
 Express <br>
 Handlebars <br>
 MySQL <br>
-JQuery <br>
 Heroku <br>
 NPM <br>
 Git / Github <br>
